@@ -1,0 +1,12 @@
+{
+  "packageManager": "yarn@3.2.2",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "@faker-js/faker": "^7.4.0",
+    "firebase-admin": "^11.0.1",
+    "moment": "^2.29.4",
+    "shortid": "^2.2.16"
+  }
+}

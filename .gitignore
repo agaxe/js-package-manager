@@ -1,0 +1,21 @@
+node_modules
+
+# yarn berry
+
+# used Zero-Install
+# /yarn-berry/.yarn/*
+# /yarn-berry/!.yarn/cache
+# /yarn-berry/!.yarn/patches
+# /yarn-berry/!.yarn/plugins
+# /yarn-berry/!.yarn/releases
+# /yarn-berry/!.yarn/sdks
+# /yarn-berry/!.yarn/versions
+
+# unused Zero-Install
+/yarn-berry/.yarn/*
+/yarn-berry/!.yarn/patches
+/yarn-berry/!.yarn/releases
+/yarn-berry/!.yarn/plugins
+/yarn-berry/!.yarn/sdks
+/yarn-berry/!.yarn/versions
+/yarn-berry/.pnp.*
